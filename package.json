@@ -1,8 +1,8 @@
 {
-  "name": "Uzurion-Launcher",
+  "name": "Hubia-luncher",
   "version": "2.0.5",
-  "productName": "Uzurion Launcher",
-  "description": "Uzurion Launcher",
+  "productName": "Hubia-luncher",
+  "description": "Hubia-luncher",
   "main": "app/index.html",
   "author": "Luuxis",
   "window": {
